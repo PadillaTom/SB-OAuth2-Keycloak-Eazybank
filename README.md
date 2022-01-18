@@ -8,3 +8,4 @@ Implementing OAuth2 Framework:
 * Data JPA
 * H2 Database
 * OAuth2 Resource Server
+* Spring Security
